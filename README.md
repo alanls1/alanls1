@@ -1,6 +1,6 @@
 - 👋 Olá! eu sou o Alan lima
 - 👀 aprender e evoluir
-- 🌱 ciência da computação - Unip
+- 🌱 análise e desenvolvimento de sistemas - PUCRS online
 
 
 <div align="center">
