@@ -1,14 +1,12 @@
 - 👋 Olá! eu sou o Alan lima
 - 👀 aprender e evoluir
 - 🌱 análise e desenvolvimento de sistemas - PUCRS online
-- Blog [devTrail](https://devtrail.com.br/)
 
  English version
  
 - 👋 Hello! I'm Alan lima
 - 👀 learn and evolve
 - 🌱 analysis and development of systems - PUCRS online
-- Blog [devTrail](https://devtrail.com.br/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
