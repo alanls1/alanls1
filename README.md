@@ -1,8 +1,8 @@
 # Olá, eu sou o Alan Lima 👋
 
-Desenvolvedor full-stack, estudando Análise e Desenvolvimento de Sistemas (PUCRS Online), baseado em Botucatu/SP.
+Desenvolvedor Full Stack. Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando MBA em Engenharia de Software na USP/ESALQ.
 
-Gosto de construir sistemas de ponta a ponta — API, banco, autenticação e a interface que consome tudo isso — e de deixar isso bem documentado.
+Gosto de construir sistemas de ponta a ponta — API, banco, autenticação e a interface que consome tudo isso.
 
 ## Stack
 
