@@ -40,13 +40,4 @@ Gosto de construir sistemas de ponta a ponta — API, banco, autenticação e a 
 | [galeria-fotos](https://github.com/alanls1/galeria-fotos) | Galeria com upload real de imagens para o Firebase Storage | React · TypeScript · Firebase |
 | [ciphers-python](https://github.com/alanls1/ciphers-python) | Implementações próprias de AES e RSA, com interface web em Flask | Python · Flask |
 
-## GitHub
 
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alanls1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanls1&layout=compact&hide_border=true" />
-</p>
-
-## Contato
-
-📫 alanlima4123@gmail.com
